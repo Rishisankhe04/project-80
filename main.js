@@ -22,5 +22,5 @@ function search(){
             found=found+1;
         }
     }
-    doucument.getElementById("p3").innerHTML="name found "+found+" times";
+    document.getElementById("p3").innerHTML="name found "+found+" times";
 }
